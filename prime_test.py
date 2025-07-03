@@ -1,7 +1,7 @@
 import sys
 
 # Change this number to control Jenkins build result
-num = 2 # Success if prime, failure if not
+num = 4# Success if prime, failure if not
 
 # Prime check logic
 if num < 2:
